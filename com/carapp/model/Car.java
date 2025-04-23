@@ -1,11 +1,6 @@
 package com.carapp.model;
 
-import com.carapp.model.Trip;
-import com.carapp.model.Maintenance;
-import com.carapp.service.CarService;
-import com.carapp.ui.*;
 
-import java.time.LocalDate;
 import java.time.Year;
 import java.util.ArrayList;
 import java.util.List;
