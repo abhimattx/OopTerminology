@@ -64,12 +64,12 @@ com.carapp/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/car-management-system.git
+   git clone https://github.com/abhimattx/OopTerminology.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd car-management-system
+   cd OopTerminology
    ```
 
 3. Compile the project:
